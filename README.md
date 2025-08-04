@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nithyayo
-- 👀 I’m interested in Salesforce Development Apex code
-- 🌱 I’m currently learning ... VisualStudio, Html, Java script
-- 💞️ I’m looking to collaborate on ... Apex programming and SF dev roles
+- 👋 Hi, I’m @nithyayo Nithya Yogesh - CDC / CNI
+- 👀 I’m interested in Salesforce Development 
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...nithya.yo@gmail.com
 
 <!---
